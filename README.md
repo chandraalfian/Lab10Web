@@ -132,7 +132,7 @@ class Form
 ```
 
 ## 5). BUAT FILE BARU DENGAN NAMA **form_input.php**
-![form-input](img/input-form.png)
+![form-input](img/input-from.png)
 
 **PENJELASAN**
 
